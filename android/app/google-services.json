@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973811964325",
+    "project_id": "protes-17280",
+    "storage_bucket": "protes-17280.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973811964325:android:337c69316b42afb540704c",
+        "android_client_info": {
+          "package_name": "com.devspot.protes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973811964325-5a141nvo431t44lc0pom1vg364pis9r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALc5m5JfqCEu1Ejqjs5qQqXEZvWSNqXg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973811964325-5a141nvo431t44lc0pom1vg364pis9r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
